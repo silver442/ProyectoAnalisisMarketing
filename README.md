@@ -1,4 +1,4 @@
-# Proyecto Analisis Marketing
+# Proyecto Analisis de Marketing
 Proyecto del Curso Python Translator de DataRebels
 
 Desarrollado por:
