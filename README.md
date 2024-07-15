@@ -8,6 +8,6 @@ Desarrollado por:
 | ---- | ---- |
 | Melany Odet | Castañeda Bazaldúa |
 | Genesis Guadalupe | Ibarra Iturbe |
-| silvestre |	Hernandez Hernandez |
+| Silvestre |	Hernandez Hernandez |
 | Alan Aarón |	Martinez Celedonio |
 
