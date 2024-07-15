@@ -4,10 +4,10 @@
 
 Desarrollado por:
 
-| Nombre |	apellido | 
+| Nombre |	Apellido | 
 | ---- | ---- |
-| Melany |	Odet Castañeda Bazaldúa |
-| Genesis |	Guadalpe Ibarra Iturbe |
+| Melany Odet | Castañeda Bazaldúa |
+| Genesis Guadalupe | Ibarra Iturbe |
 | silvestre |	Hernandez Hernandez |
 | Alan Aarón |	Martinez Celedonio |
 
